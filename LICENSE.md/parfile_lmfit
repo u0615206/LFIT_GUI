@@ -1,0 +1,25 @@
+/home/u0615206/Data/HST/18/12210/74/SLACSJ1137+1818_12210_55705_F814W_1_biz.fits	0
+/home/u0615206/Data/HST/18/12210/74/SLACSJ1137+1818_12210_55705_F814W_1_biz.fits	1
+/home/u0615206/Data/HST/18/12210/74/SLACSJ1137+1818_12210_55705_F814W_1_biz.fits	3
+/home/u0615206/Data/HST/18/12210/74/SLACSJ1137+1818_12210_55705_F814W_1_biz.fits	5
+/home/u0615206/Data/HST/18/12210/74/SLACSJ1137+1818_12210_55705_F814W_1_biz.fits	6
+/home/u0615206/Data/HST/18/12210/74/SLACSJ1137+1818_12210_55705_F814W_1_biz.fits	7
+SLACSJ1011+0143_SIE_test.fits
+60  0.05
+1  sersic
+1  sie
+1  bspline
+1
+value=1.0, min=0.0
+value=0.25
+value=0.2
+value=0.05, min=0.01
+value=60.0, min=1.0, max=180.0
+value=0.6, min=0.1, max=1.0
+value=2.0, min=0.1, max=4.0
+value=1.2908236429059761, min=0.0, vary=1
+value=0.019585339548049037, vary=1
+value=0.068630907053723766, vary=1
+value=121.42853434042674, min=0.1, max=180.0, vary=1
+value=0.8967840921684872, min=0.1, max=1.0, vary=1
+value=1.0, vary=0

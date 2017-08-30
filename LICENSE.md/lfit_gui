@@ -1,0 +1,7 @@
+#!/usr/bin/env python
+validation = True
+try: from lfit_gui import Application
+except ImportError,e :
+    validation = False
+    print "ImportError: %s" % str(e)
+if validation: junk = Application()

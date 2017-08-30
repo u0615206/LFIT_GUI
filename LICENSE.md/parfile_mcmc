@@ -1,0 +1,26 @@
+/Users/yipingshu/Data/HST/18/12210/74/SLACSJ1137+1818_12210_55705_F814W_1_biz.fits	0
+/Users/yipingshu/Data/HST/18/12210/74/SLACSJ1137+1818_12210_55705_F814W_1_biz.fits	1
+/Users/yipingshu/Data/HST/18/12210/74/SLACSJ1137+1818_12210_55705_F814W_1_biz.fits	3
+/Users/yipingshu/Data/HST/18/12210/74/SLACSJ1137+1818_12210_55705_F814W_1_biz.fits	5
+/Users/yipingshu/Data/HST/18/12210/74/SLACSJ1137+1818_12210_55705_F814W_1_biz.fits	6
+/Users/yipingshu/Data/HST/18/12210/74/SLACSJ1137+1818_12210_55705_F814W_1_biz.fits	7
+SLACSJ1011+0143_SIE_test.fits
+60  0.05
+1  sersic
+1  sple
+1  bspline
+2
+0 0.1 30.0
+0 -0.5 0.5
+0 -0.5 0.5
+0 0.01	0.1
+0 1.0 180.0
+0 0.1 1.0
+0 0.1 4.0
+0 1.0 1.5
+0 -0.1 0.1
+0 -0.1 0.1
+0 1.0 180.0
+0 0.1 1.0
+0 0.1 2.0
+500 1 1 
